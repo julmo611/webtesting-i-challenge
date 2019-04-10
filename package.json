@@ -1,0 +1,12 @@
+{
+	"name": "webtesting-i-guided",
+	"version": "1.0.0",
+	"description": "Web Testing I Guided Project",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --watch"
+	},
+	"devDependencies": {
+		"jest": "^24.7.1"
+	}
+}
